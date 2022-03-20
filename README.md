@@ -1,2 +1,2 @@
-# ug-dissertation
+# UG Dissertation
 Codebase for my undergraduate dissertation
